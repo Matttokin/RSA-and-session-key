@@ -1,0 +1,9 @@
+C:\Users\Mr Tokin\source\repos\RSA and session key\RSA and session key\bin\Debug\RSA and session key.exe.config
+C:\Users\Mr Tokin\source\repos\RSA and session key\RSA and session key\bin\Debug\RSA and session key.exe
+C:\Users\Mr Tokin\source\repos\RSA and session key\RSA and session key\bin\Debug\RSA and session key.pdb
+C:\Users\Mr Tokin\source\repos\RSA and session key\RSA and session key\obj\Debug\RSA and session key.csprojAssemblyReference.cache
+C:\Users\Mr Tokin\source\repos\RSA and session key\RSA and session key\obj\Debug\RSA_and_session_key.Form1.resources
+C:\Users\Mr Tokin\source\repos\RSA and session key\RSA and session key\obj\Debug\RSA_and_session_key.Properties.Resources.resources
+C:\Users\Mr Tokin\source\repos\RSA and session key\RSA and session key\obj\Debug\RSA and session key.csproj.GenerateResource.cache
+C:\Users\Mr Tokin\source\repos\RSA and session key\RSA and session key\obj\Debug\RSA and session key.exe
+C:\Users\Mr Tokin\source\repos\RSA and session key\RSA and session key\obj\Debug\RSA and session key.pdb
